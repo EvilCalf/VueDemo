@@ -1,3 +1,3 @@
 # Postgraduate study
 
-just a Vue Demo
+Just a Vue Demo
